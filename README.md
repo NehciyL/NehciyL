@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding with fun, discovry in R.
 - 🌱 I’m currently learning finance
 - 📫 How to reach me: yichenliu.research@gmail.com
-- 😄 Pronouns: Yichen, more easier: yi = E, chen = chan
 - ⚡ Fun fact: sports-olic
 
 <!---
